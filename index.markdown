@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+title: "Albert Choi"
+layout: splash
+header:
+  image: /images/wedge-pond.jpg
+excerpt: "This is the splash page, isn't it cool"
+tagline: The tagline
 ---
