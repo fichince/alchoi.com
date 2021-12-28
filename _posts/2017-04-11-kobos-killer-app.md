@@ -1,7 +1,6 @@
 ---
 layout: single
 title:  "Kobo's Killer App, or: My History with E-reading"
-date:   2017-05-29
 categories: books
 excerpt: "this is the excepert"
 ---
