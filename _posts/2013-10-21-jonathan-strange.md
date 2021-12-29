@@ -1,11 +1,11 @@
 ---
 layout: single
-title:  "Review: _Jonathan Strange & Mr Norrell_"
+title:  "Review: _Jonathan Strange & Mr Norrell_ by Susanna Clarke"
 categories: books
 excerpt: "this is the excepert"
 ---
 
-I last read Jonathan Strange & Mr Norrell in the fall of 2006. The book is somehow linked to memories from that time in my life, so that when I think about the book, it reminds me of events that happened to me, as much as the events that happened in the story itself. For instance, I remember having to buy two copies of it, because one of them was ruined in the rain.[^1] I remember being woken up by a certain hit pop song[^2] on a hotel alarm clock’s radio, and upon hitting the snooze, noticing the book on the nightstand, and wanting to use the snooze interval to squeeze in one more chapter before heading out to work. I remember eliciting a bemused and maybe condescending comment from a desk clerk at a video store[^3]. And I remember, finally, finishing the book on a plane in flight, and then spending the rest of the flight missing it.[^4]
+I last read _Jonathan Strange & Mr Norrell_ in the fall of 2006. The book is somehow linked to memories from that time in my life, so that when I think about the book, it reminds me of events that happened to me, as much as the events that happened in the story itself. For instance, I remember having to buy two copies of it, because one of them was ruined in the rain.[^1] I remember being woken up by a certain hit pop song[^2] on a hotel alarm clock’s radio, and upon hitting the snooze, noticing the book on the nightstand, and wanting to use the snooze interval to squeeze in one more chapter before heading out to work. I remember eliciting a bemused and maybe condescending comment from a desk clerk at a video store[^3]. And I remember, finally, finishing the book on a plane in flight, and then spending the rest of the flight missing it.[^4]
 
 I wonder, this time around, which memories will become entangled with my reading of this book? Will it be reading it while queueing at TIFF 2013, and being disappointed one day when a light rain prevented me from taking it out of my bag?[^5] Will it be my frantic attempt to download an e-book copy from the library on my way out the door somewhere, because I was so desperate to continue reading on the go, but did not want to carry the significant heft of the book?[^6]
 
