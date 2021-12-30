@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Favourite Albums of the 2000's
 ---
 

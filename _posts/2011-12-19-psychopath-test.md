@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Review: _The Psychopath Test: A Journey Through the Madness Industry_ by Jon Ronson"
 categories: books
 excerpt: "this is the excepert"

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Review: _Everything and More: A Compact History of Infinity_ by David Foster Wallace"
 categories: books
 excerpt: "this is the excepert"

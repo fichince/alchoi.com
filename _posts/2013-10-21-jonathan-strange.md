@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "Review: _Jonathan Strange & Mr Norrell_ by Susanna Clarke"
 categories: books
 excerpt: "this is the excepert"

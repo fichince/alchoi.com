@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 'TIFF 2009: _City of Life and Death_'
 ---
 

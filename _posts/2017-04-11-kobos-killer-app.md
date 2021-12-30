@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "Kobo's Killer App, or: My History with E-reading"
 categories: books
 excerpt: "this is the excepert"

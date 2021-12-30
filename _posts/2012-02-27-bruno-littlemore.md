@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Review: _The Evolution of Bruno Littlemore_ by Benjamin Hale"
 categories: books
 excerpt: "this is the excepert"

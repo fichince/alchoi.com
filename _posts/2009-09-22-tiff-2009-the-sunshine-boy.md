@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 'TIFF 2009: _The Sunshine Boy_'
 ---
 

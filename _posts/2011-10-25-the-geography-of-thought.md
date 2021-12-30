@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 'Review: _The Geography of Thought_ by Richard E. Nisbett'
 ---
 

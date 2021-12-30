@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Review: _Perdido Street Station_ by China Mieville"
 categories: books
 excerpt: "this is the excepert"

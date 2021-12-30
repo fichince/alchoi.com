@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 'Review: _Mistakes Were Made (But Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts_ by Carol Tavris'
 ---
 

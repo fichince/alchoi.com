@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 'TIFF 2010: _Even the Rain_'
 ---
 
