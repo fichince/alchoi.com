@@ -181,7 +181,14 @@ a.navbar-item.is-active {
         display: flex;
         margin-right: 20.5vmax;
         margin-left: 20.5vmax;
-        justify-content: space-between;
+
+        #prev {
+            margin-right: auto;
+        }
+
+        #next {
+            margin-left: auto;
+        }
 
         @media (max-width: 768px) {
             margin-right: 2.5vmax;
