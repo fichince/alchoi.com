@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Battle of the audio players
+description: No probability theory
 ---
 
 I've arrived at a bit of a crossroads concerning audio player software, and which one to use. I have a moderately large collection of music on my computer, and dumping everything onto a playlist and shuffling isn't quite good enough for me.  

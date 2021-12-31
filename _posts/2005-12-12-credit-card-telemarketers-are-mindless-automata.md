@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Credit card telemarketers are mindless automata
+description: Click
 ---
 
 _Ring, ring_

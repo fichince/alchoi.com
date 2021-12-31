@@ -2,7 +2,7 @@
 layout: post
 title: "Review: _The Psychopath Test: A Journey Through the Madness Industry_ by Jon Ronson"
 categories: books
-excerpt: "this is the excepert"
+description: An abandoned thesis
 ---
 
 When I saw the advertised premise of this book--that many world leaders are actually psychopaths--I went “Yeah! Politicians suck! Rich CEOs suck!” It would be a book for the 99-percenter in all of us.

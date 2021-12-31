@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Favourite Albums of the 2000's
+description: Bandwagon jumping
 ---
 
 Seems like everyone is doing this, so I'm jumping on the bandwagon. Here goes...

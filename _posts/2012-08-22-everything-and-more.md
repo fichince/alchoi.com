@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Review: _Everything and More: A Compact History of Infinity_ by David Foster Wallace"
-categories: books
-excerpt: "this is the excepert"
+description: "\"Compact\"?"
 ---
 
 Frankly, I'm surprised I finished this book. I sort of saw it as part of my current project to work my way up to reading _Infinite Jest_. (Which is currently sitting on my dining room table. I'm afraid to shelve it lest the lack of a visual reminder will make me forget that I have it. It is also my hope that visitors will be impressed by the sight of the thing.) 

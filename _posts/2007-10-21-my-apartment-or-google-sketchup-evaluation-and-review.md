@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'MY APARTMENT!!! or: Google SketchUp evaluation and review'
+description: Thinly disguised
 ---
 
 _N.B.: I don't normally post personal items on this blog, so this will be thinly disguised as a technology review article._  

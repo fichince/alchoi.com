@@ -2,7 +2,7 @@
 layout: post
 title:  "Kobo's Killer App, or: My History with E-reading"
 categories: books
-excerpt: "this is the excepert"
+description: "From iPAQ to e-ink"
 ---
 
 I've had an on-again, off-again relationship with e-books and e-readers for many years. My first experience dates back to the early 2000's. Back then, I had an HP iPAQ Pocket PC device, running some version of Windows CE or Mobile, and read books in an application called Microsoft Reader (with ClearType!). (I won't say "app" because that's not what we called them back then.) Books were purchased from the now-defunct Fictionwise store, in an also-defunct format with a ".lit" filename extension.
