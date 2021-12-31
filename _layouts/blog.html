@@ -13,19 +13,21 @@ layout: compress
     <section class="hero is-fullheight" id="blog">
         <div class="hero-body">
             <div class="container">
-                {% include blogpage-heading.html %}
             </div>
         </div>
+        {% comment %}
         <div id="results-container"></div>
-        <!--Blog Cards Section-->
-        {% for post in site.posts %}
-            {% include blog-card.html %}
-        {% endfor %}
+        {% endcomment %}
+
+        {{ content }}
+
         </div>
     </section>
     <br>
     <!--Footer begins here-->
     {% include footer.html %}
+
+    {% comment %}
     <script src="{{site.url}}{{site.baseurl}}/assets/js/simple-jekyll-search.js"></script>
 
     <script>
@@ -38,6 +40,7 @@ layout: compress
             fuzzy: true,
         });
     </script>
+    {% endcomment %}
 </body>
 
 </html>

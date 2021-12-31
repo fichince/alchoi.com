@@ -173,6 +173,18 @@ a.navbar-item.is-active {
             }
         }
     }
+
+    #paginate-container {
+        display: flex;
+        margin-right: 20.5vmax;
+        margin-left: 20.5vmax;
+        justify-content: space-between;
+
+        @media (max-width: 768px) {
+            margin-right: 2.5vmax;
+            margin-left: 2.5vmax;
+        }
+    }
 }
 
 #search {
