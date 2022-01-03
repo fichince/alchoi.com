@@ -6,7 +6,7 @@ description: In case of emergency
 
 Got the statement from my corporate credit card. It made me feel good.  
   
-![creditcard](/images/creditcard.png)  
+![creditcard](/assets/images/creditcard.png)  
 
 ONE BILLION DOLLARS...  
   
