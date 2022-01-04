@@ -58,6 +58,9 @@ pagination:
   permalink: '/page/:num/'
   sort_reverse: true
 
+include:
+  - _pages
+
 # Permalink
 permalink: "blog/:title"
 
