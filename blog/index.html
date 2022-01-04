@@ -13,7 +13,7 @@ pagination:
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}
-<div id="paginate-container">
+<div id="paginate-container" class="mb-5 has-links-light">
   {% if paginator.previous_page %}
   <div id="prev" class="has-text-weight-semibold">
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">

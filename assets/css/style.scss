@@ -3,6 +3,12 @@
 
 @import "main.scss";
 
+$about-color: #2a3b34;
+$contact-color: #4c4f39;
+
+$link-color: #9cbc43;
+$link-color-inverted: #6343bc;
+
 #navbar {
     opacity: 0.75;
     font-family: $display-font, serif;
@@ -36,6 +42,10 @@ a.navbar-item.is-active {
 
 .navbar-link:not(.is-arrowless)::after {
     border-color: grey;
+}
+
+.hero {
+    background-color: $about-color;
 }
 
 
@@ -72,6 +82,7 @@ a.navbar-item.is-active {
 }
 
 #about {
+    background-color: $about-color;
     .image {
         max-width: 20vmax;
         margin: auto;
@@ -88,6 +99,8 @@ a.navbar-item.is-active {
 }
 
 #contact {
+    background-color: $contact-color;
+
     #contact-button {
         margin: 0.5rem auto;
         display: flex;
@@ -128,6 +141,8 @@ a.navbar-item.is-active {
 }
 
 #blog {
+    background-color: $about-color;
+
     .hero-body {
         padding: 3rem 0.25rem 1rem 0.25rem;
     }
@@ -137,6 +152,7 @@ a.navbar-item.is-active {
     }
 
     #blog-card {
+        background-color: white;
         transition: all 0.25s ease;
         margin-bottom: 0.5vmax;
         transform: scale(0.85);
@@ -214,6 +230,27 @@ a.navbar-item.is-active {
         @media (max-width: 768px) {
             margin-right: 2.5vmax;
             margin-left: 2.5vmax;
+        }
+
+    }
+}
+
+.has-links-dark {
+    a {
+        color: $link-color-inverted;
+
+        &:hover {
+            color: $link-color;
+        }
+    }
+}
+
+.has-links-light {
+    a {
+        color: $link-color;
+
+        &:hover {
+            color: $link-color-inverted;
         }
     }
 }
