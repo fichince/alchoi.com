@@ -4,7 +4,8 @@
 @import "main.scss";
 
 #navbar {
-    opacity: 0.95;
+    opacity: 0.75;
+    font-family: $display-font, serif;
 }
 
 .is-active {
@@ -63,8 +64,10 @@ a.navbar-item.is-active {
 }
 .title {
     margin: auto 0.75rem!important;
+    font-family: $display-font, serif;
 }
 .subtitle {
+    font-family: $display-font, serif;
     letter-spacing: 0.25rem;
 }
 
@@ -247,6 +250,7 @@ a.navbar-item.is-active {
         width: 10rem;
         padding: 0.25rem;
         margin: auto auto 1rem auto;
+        font-family: $display-font, serif;
 
         &:hover {
             transform: scale(1.05);
