@@ -61,9 +61,6 @@ pagination:
 include:
   - _pages
 
-# Permalink
-#permalink: "blog/:title"
-
 # Compress
 compress_html:
   clippings: all
@@ -79,6 +76,7 @@ defaults:
       description: ""
       tags:
         - ""
+      permalink: /blog/:year/:month/:day/:title:output_ext
   -
     scope:
       type: 'pages'
