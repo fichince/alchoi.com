@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Kobo's Killer App, or: My History with E-reading"
-categories: books
 description: "From iPAQ to e-ink"
 ---
 

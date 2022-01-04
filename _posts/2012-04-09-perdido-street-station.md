@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Review: _Perdido Street Station_ by China Mieville"
-categories: books
 description: A great mix of setting, plot and character
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Review: _The Psychopath Test: A Journey Through the Madness Industry_ by Jon Ronson"
-categories: books
 description: An abandoned thesis
 ---
 
