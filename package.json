@@ -1,0 +1,17 @@
+{
+  "name": "alchoi.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:fichince/alchoi.com.git",
+  "author": "fichince <acchoi@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@tailwindcss/jit": "^0.1.18",
+    "@tailwindcss/typography": "^0.5.0",
+    "autoprefixer": "^10.4.1",
+    "cssnano": "^5.0.14",
+    "postcss": "^8.4.5",
+    "postcss-import": "^14.0.2",
+    "tailwindcss": "^3.0.11"
+  }
+}

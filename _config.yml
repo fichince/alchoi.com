@@ -42,15 +42,21 @@ author-image: /assets/images/headshot.jpg
 author-about: I write software, and sometimes prose.
 
 # SASS
-sass:
-  sass_dir: _sass
-  style: compressed
+#sass:
+  #sass_dir: _sass
+  #style: compressed
 
 # Build settings
 plugins:
   - jekyll-admin
   - jekyll-feed
   - jekyll-paginate-v2
+  - jekyll-postcss
+
+css_dir: "assets/css"
+
+postcss:
+  cache: false
 
 pagination:
   enabled: true
@@ -77,11 +83,11 @@ defaults:
       tags:
         - ""
       permalink: /blog/:year/:month/:day/:title:output_ext
-  -
-    scope:
-      type: 'pages'
-    values:
-      layout: page
+  #-
+  #  scope:
+  #    type: 'pages'
+  #  values:
+  #    layout: page
 
 # Exclude
 exclude:
@@ -91,6 +97,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules/
+  - yarn.lock
+  - postcss.config.js
+  - tailwind.config.js
+  - package.json
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
